@@ -34,60 +34,69 @@ Uso este espacio para practicar, aprender y compartir parte de mi evolución com
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Tecnologías que utilizo</b>
+
 <br>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" style="display: block; margin: 0 auto;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
         <br>Java
       </td>
       <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" style="display: block; margin: 0 auto;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
         <br>HTML5
       </td>
       <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" style="display: block; margin: 0 auto;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
         <br>CSS3
       </td>
       <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" style="display: block; margin: 0 auto;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
         <br>Python
       </td>
       <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" style="display: block; margin: 0 auto;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
         <br>Git
       </td>
       <td align="center" width="96" height="96">
-        <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" width="48" height="48" alt="GitHub" style="display: block; margin: 0 auto;" />
+        <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" width="48" height="48" alt="GitHub" />
         <br>GitHub
+      </td>
+      <td align="center" width="96" height="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <br>Docker
       </td>
     </tr>
     <tr>
       <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" style="display: block; margin: 0 auto;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
         <br>Linux
       </td>
       <td align="center" width="96" height="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="48" height="48" alt="Windows" style="display: block; margin: 0 auto;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="48" height="48" alt="Windows" />
         <br>Windows
       </td>
       <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" alt="MacOS" style="display: block; margin: 0 auto;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" alt="MacOS" />
         <br>MacOS
       </td>
       <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" style="display: block; margin: 0 auto;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
         <br>AWS
       </td>
       <td align="center" width="96" height="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="48" height="48" alt="VirtualBox" style="display: block; margin: 0 auto;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="48" height="48" alt="VirtualBox" />
         <br>VirtualBox
       </td>
       <td align="center" width="96" height="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" width="48" height="48" alt="Cisco" style="display: block; margin: 0 auto;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" width="48" height="48" alt="Cisco" />
         <br>Cisco
+      </td>
+      <td align="center" width="96" height="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
+        <br>SQL
       </td>
     </tr>
   </table>
