@@ -22,7 +22,7 @@ Uso este espacio para practicar, aprender y compartir parte de mi evolución com
   <table border="0">
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ju4nmaFd3z&theme=midnight-purple&show_icons=true&count_private=true"/>
+        <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Ju4nmaFd3z&show_icons=true&theme=dark"/>
       </td>
       <td>
         <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" />
