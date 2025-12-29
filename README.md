@@ -1,23 +1,33 @@
-<h1 align="center">¡Buenass! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Juanma Fernández</h1>
+<h1 align="center">¡Buenas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Juanma Fernández</h1>
  
 <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Estudiante+DAM;Técnico+SMR;DEV+In+Progress;Entusiasta+Open-Source;Fiel+al+CTRL+Z" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Estudiante+DAM;Técnico+SMR;Dev+in+Progress;Entusiasta+Open-Source;Fiel+al+CTRL+Z" alt="Headline" />
 </div>
 
 🎓 **Estudiante de Desarrollo de Aplicaciones Multiplataforma**  
 📍 Málaga, España  
 💡 Apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones útiles.  
 
+<br>
+
+<div align="center">
+  <a href="https://juanma-dev-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/MI_PORTFOLIO-CLICK_AQUÍ-10b981?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</div>
+
+<br>
+
 ---
 
 ## 🧠 Sobre mí
 
 Soy estudiante de desarrollo de software, actualmente formándome en el **CPIFP Alan Turing** (PTA, Málaga).  
-Me apasiona entender cómo funcionan las cosas "por dentro", aplicar buenas prácticas y crear proyectos que combinen lógica, diseño y funcionalidad.
+Me apasiona entender cómo funcionan las cosas “por dentro”, aplicar buenas prácticas y crear proyectos que combinen lógica, diseño y funcionalidad.
 
 Uso este espacio para practicar, aprender y compartir parte de mi evolución como desarrollador. Cada proyecto que subo refleja un paso más en mi camino hacia el desarrollo profesional.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <div align="center">
   <table border="0">
     <tr>
@@ -33,7 +43,7 @@ Uso este espacio para practicar, aprender y compartir parte de mi evolución com
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Tecnologías que utilizo</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Tecnologías que utilizo</b>
 
 <br>
 
@@ -79,8 +89,8 @@ Uso este espacio para practicar, aprender y compartir parte de mi evolución com
         <br>Windows
       </td>
       <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" alt="MacOS" />
-        <br>MacOS
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" alt="macOS" />
+        <br>macOS
       </td>
       <td align="center" width="96" height="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
@@ -109,12 +119,13 @@ Uso este espacio para practicar, aprender y compartir parte de mi evolución com
 ## 🚀 Objetivos actuales
 
 - Consolidar mis habilidades en **desarrollo de aplicaciones multiplataforma**.  
-- Mejorar en **Java** y explorar **nuevas tecnologías y aplicaciones**.  
+- Mejorar en **Java** y explorar **nuevas tecnologías y herramientas**.  
 - Participar en proyectos colaborativos que me permitan aprender de otros desarrolladores y aportar mi granito de arena.
 
 ---
 
-> 💬 "Cada error que cometemos nos acerca más a la meta." Sí, me pongo filosófico a veces.
+> 💬 “Cada error que cometemos nos acerca más a la meta.”  
+> Sí, me pongo filosófico a veces 😄
 
 ---
 
@@ -130,5 +141,5 @@ Uso este espacio para practicar, aprender y compartir parte de mi evolución com
 ---
 
 <p align="center">
-✨ <i>Gracias por visitar mi perfil! Espero verte por aquí más veces</i>
+✨ <i>¡Gracias por visitar mi perfil! Espero verte por aquí más veces</i>
 </p>
