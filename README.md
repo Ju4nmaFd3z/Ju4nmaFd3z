@@ -10,13 +10,18 @@
 
 <br>
 
+## 🚀 ÚLTIMOS PROYECTOS
+
 <div align="center">
-  <a href="https://juanma-dev-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/MI_PORTFOLIO-CLICK_AQUÍ-10b981?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge" />
-  </a>
+<a href="https://juanma-dev-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTAFOLIO-Visita%20aquí-191919?style=for-the-badge&logo=react&logoColor=58a6ff&labelColor=1a1f3a&borderColor=58a6ff&border=2" alt="Portfolio" />
+ </a>
+ <br>
+ <a href="https://genetix-xi.vercel.app/" target="_blank">
+   <img src="https://img.shields.io/badge/GENETIX-Explora%20el%20Proyecto-191919?style=for-the-badge&logo=graphql&logoColor=8b5cf6&labelColor=1a1f3a&borderColor=8b5cf6&border=2" alt="Genetix" />
+ </a>
 </div>
 
-<br>
 
 ---
 
@@ -116,16 +121,34 @@ Uso este espacio para practicar, aprender y compartir parte de mi evolución com
 
 ---
 
-## 🚀 Objetivos actuales
+## 🎯 OBJETIVOS ACTUALES
 
-- Consolidar mis habilidades en **desarrollo de aplicaciones multiplataforma**.  
-- Mejorar en **Java** y explorar **nuevas tecnologías y herramientas**.  
-- Participar en proyectos colaborativos que me permitan aprender de otros desarrolladores y aportar mi granito de arena.
+### 🔧 Desarrollo Multiplataforma
+Consolidar mis habilidades en **aplicaciones multiplataforma** con arquitecturas escalables y patrones profesionales.
+
+### 📚 Profundizar en Java
+Explorar frameworks avanzados y mejores prácticas en el ecosistema Java.
+
+### 🤝 Colaboración Open-Source
+Contribuir en **proyectos colaborativos** que generen impacto real y aprender de otros desarrolladores.
+
+### 🌐 Tecnologías Emergentes
+Expandir mi conocimiento en nuevas herramientas, metodologías e innovaciones del sector.
 
 ---
 
-> 💬 “Cada error que cometemos nos acerca más a la meta.”  
-> Sí, me pongo filosófico a veces 😄
+## 💬 FILOSOFÍA DE DESARROLLO
+
+```
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  "Cada error que cometemos nos acerca más a la meta"       │
+│                                                            │
+│  La calidad SUPERA la cantidad.                            │
+│  El aprendizaje NO tiene final.                            │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -140,6 +163,16 @@ Uso este espacio para practicar, aprender y compartir parte de mi evolución com
 
 ---
 
-<p align="center">
-✨ <i>¡Gracias por visitar mi perfil! Espero verte por aquí más veces</i>
-</p>
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║  ✨ ¡Gracias por visitar mi perfil! Espero verte por aquí más veces ✨  ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+**Hecho con 💻 y ☕ desde Málaga**
+
+</div>
