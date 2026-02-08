@@ -68,8 +68,8 @@ Uso este espacio para practicar, aprender y compartir parte de mi evolución com
         <br>CSS3
       </td>
       <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-        <br>Python
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
       </td>
       <td align="center" width="96" height="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
