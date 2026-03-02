@@ -18,7 +18,7 @@
 
   <a href="https://juanma-dev-portfolio.vercel.app/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/PORTAFOLIO-Visita%20aquí-191919?style=for-the-badge&logo=react&logoColor=58a6ff&labelColor=1a1f3a&borderColor=58a6ff&border=2" 
+      src="https://img.shields.io/badge/PORTAFOLIO-Pinchando%20aquí-191919?style=for-the-badge&logo=react&logoColor=58a6ff&labelColor=1a1f3a&borderColor=58a6ff&border=2" 
       alt="Portfolio" 
     />
   </a>
