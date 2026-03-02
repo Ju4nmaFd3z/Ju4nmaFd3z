@@ -1,14 +1,7 @@
-<h1 align="center">
-  ¡Buenas! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Soy Juanma Fernández
-</h1>
-
+<h1 align="center">¡Buenas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Juanma Fernández</h1>
+ 
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Estudiante+DAM;Técnico+SMR;Dev+in+Progress;Entusiasta+Open-Source;Fiel+al+CTRL+Z" 
-    alt="Headline" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Estudiante+DAM;Técnico+SMR;Dev+in+Progress;Entusiasta+Open-Source;Fiel+al+CTRL+Z" alt="Headline"/>
 </div>
 
 🎓 **Estudiante de Desarrollo de Aplicaciones Multiplataforma**  
