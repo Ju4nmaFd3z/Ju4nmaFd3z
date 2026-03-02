@@ -1,7 +1,14 @@
-<h1 align="center">¡Buenas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Juanma Fernández</h1>
- 
+<h1 align="center">
+  ¡Buenas! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Soy Juanma Fernández
+</h1>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Estudiante+DAM;Técnico+SMR;Dev+in+Progress;Entusiasta+Open-Source;Fiel+al+CTRL+Z" alt="Headline" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Estudiante+DAM;Técnico+SMR;Dev+in+Progress;Entusiasta+Open-Source;Fiel+al+CTRL+Z" 
+    alt="Headline" 
+  />
 </div>
 
 🎓 **Estudiante de Desarrollo de Aplicaciones Multiplataforma**  
@@ -10,16 +17,32 @@
 
 <br>
 
+---
+
 ## 🚀 ÚLTIMOS PROYECTOS
 
 <div align="center">
-<a href="https://juanma-dev-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/PORTAFOLIO-Visita%20aquí-191919?style=for-the-badge&logo=react&logoColor=58a6ff&labelColor=1a1f3a&borderColor=58a6ff&border=2" alt="Portfolio" />
- </a>
- <br>
- <a href="https://genetix-xi.vercel.app/" target="_blank">
-   <img src="https://img.shields.io/badge/GENETIX-Explora%20el%20Proyecto-191919?style=for-the-badge&logo=graphql&logoColor=8b5cf6&labelColor=1a1f3a&borderColor=8b5cf6&border=2" alt="Genetix" />
- </a>
+
+  <a href="https://juanma-dev-portfolio.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/PORTAFOLIO-Visita%20aquí-191919?style=for-the-badge&logo=react&logoColor=58a6ff&labelColor=1a1f3a&borderColor=58a6ff&border=2" 
+      alt="Portfolio" 
+    />
+  </a>
+  <br>
+  <a href="https://genetix-arena.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/GENETIX%20ARENA-Explora%20el%20proyecto-191919?style=for-the-badge&logo=riotgames&logoColor=8b5cf6&labelColor=1a1f3a&borderColor=8b5cf6&border=2" 
+      alt="Genetix Arena" 
+    />
+  </a>
+  <br>
+  <a href="https://genetix-xi.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/GENETIX-Visita%20mi%20Trabajo-191919?style=for-the-badge&logo=graphql&logoColor=8b5cf6&labelColor=1a1f3a&borderColor=8b5cf6&border=2" 
+      alt="Genetix" 
+    />
+  </a>
 </div>
 
 
