@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Juanma%20Fern%C3%A1ndez&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=DAM%20Student%20%7C%20Dev%20in%20Progress%20%7C%20Open-Source%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EC4A0,100:1A3A6B&height=200&section=header&text=Juanma%20Fern%C3%A1ndez&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=DAM%20Student%20%7C%20Dev%20in%20Progress%20%7C%20Open-Source%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
 </div>
 
 <div align="center">
@@ -13,9 +13,9 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EC4A0,100:1A3A6B&height=4" width="100%"/>
   <h2>🚀 ÚLTIMOS PROYECTOS</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EC4A0,100:1A3A6B&height=4" width="100%"/>
 </div>
 
 <br>
@@ -39,9 +39,9 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EC4A0,100:1A3A6B&height=4" width="100%"/>
   <h2>🧠 SOBRE MÍ</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EC4A0,100:1A3A6B&height=4" width="100%"/>
 </div>
 
 <br>
@@ -59,9 +59,9 @@ Cada proyecto que subo refleja un paso más en mi camino hacia el desarrollo pro
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EC4A0,100:1A3A6B&height=4" width="100%"/>
   <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GITHUB STATS</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EC4A0,100:1A3A6B&height=4" width="100%"/>
 </div>
 
 <br>
@@ -82,9 +82,9 @@ Cada proyecto que subo refleja un paso más en mi camino hacia el desarrollo pro
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EC4A0,100:1A3A6B&height=4" width="100%"/>
   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> TECNOLOGÍAS QUE UTILIZO</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EC4A0,100:1A3A6B&height=4" width="100%"/>
 </div>
 
 <br>
@@ -124,9 +124,9 @@ Cada proyecto que subo refleja un paso más en mi camino hacia el desarrollo pro
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EC4A0,100:1A3A6B&height=4" width="100%"/>
   <h2>🎯 OBJETIVOS ACTUALES</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EC4A0,100:1A3A6B&height=4" width="100%"/>
 </div>
 
 <br>
@@ -145,9 +145,9 @@ Cada proyecto que subo refleja un paso más en mi camino hacia el desarrollo pro
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EC4A0,100:1A3A6B&height=4" width="100%"/>
   <h2>💬 FILOSOFÍA DE DESARROLLO</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EC4A0,100:1A3A6B&height=4" width="100%"/>
 </div>
 
 <br>
@@ -170,9 +170,9 @@ Cada proyecto que subo refleja un paso más en mi camino hacia el desarrollo pro
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EC4A0,100:1A3A6B&height=4" width="100%"/>
   <h2>📫 CONECTA CONMIGO</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EC4A0,100:1A3A6B&height=4" width="100%"/>
 </div>
 
 <br>
@@ -194,5 +194,5 @@ Cada proyecto que subo refleja un paso más en mi camino hacia el desarrollo pro
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EC4A0,100:1A3A6B&height=120&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 </div>
