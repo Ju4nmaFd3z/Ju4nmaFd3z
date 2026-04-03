@@ -1,159 +1,158 @@
-<h1 align="center">¡Buenas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Juanma Fernández</h1>
- 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Estudiante+DAM;Técnico+SMR;Dev+in+Progress;Entusiasta+Open-Source;Fiel+al+CTRL+Z" alt="Headline"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Juanma%20Fern%C3%A1ndez&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=DAM%20Student%20%7C%20Dev%20in%20Progress%20%7C%20Open-Source%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
 </div>
+
+<div align="center">
 
 🎓 **Estudiante de Desarrollo de Aplicaciones Multiplataforma**  
 📍 Málaga, España  
-💡 Apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones útiles.  
+💡 Apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones útiles.
+
+</div>
 
 <br>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <h2>🚀 ÚLTIMOS PROYECTOS</h2>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+</div>
 
-## 🚀 ÚLTIMOS PROYECTOS
+<br>
 
 <div align="center">
 
   <a href="https://juanma-dev-portfolio.vercel.app/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/PORTAFOLIO-Pinchando%20aquí-191919?style=for-the-badge&logo=react&logoColor=58a6ff&labelColor=1a1f3a&borderColor=58a6ff&border=2" 
-      alt="Portfolio" 
-    />
+    <img src="https://img.shields.io/badge/PORTAFOLIO-Pinchando%20aquí-191919?style=for-the-badge&logo=react&logoColor=58a6ff&labelColor=1a1f3a" alt="Portfolio"/>
   </a>
   <br>
   <a href="https://genetix-arena.vercel.app/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/GENETIX%20ARENA-Explora%20el%20proyecto-191919?style=for-the-badge&logo=riotgames&logoColor=8b5cf6&labelColor=1a1f3a&borderColor=8b5cf6&border=2" 
-      alt="Genetix Arena" 
-    />
+    <img src="https://img.shields.io/badge/GENETIX%20ARENA-Explora%20el%20proyecto-191919?style=for-the-badge&logo=riotgames&logoColor=8b5cf6&labelColor=1a1f3a" alt="Genetix Arena"/>
   </a>
   <br>
   <a href="https://genetix-xi.vercel.app/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/GENETIX-Visita%20mi%20Trabajo-191919?style=for-the-badge&logo=graphql&logoColor=8b5cf6&labelColor=1a1f3a&borderColor=8b5cf6&border=2" 
-      alt="Genetix" 
-    />
+    <img src="https://img.shields.io/badge/GENETIX-Visita%20mi%20Trabajo-191919?style=for-the-badge&logo=graphql&logoColor=8b5cf6&labelColor=1a1f3a" alt="Genetix"/>
   </a>
+
 </div>
 
+<br>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <h2>🧠 SOBRE MÍ</h2>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+</div>
 
-## 🧠 Sobre mí
+<br>
 
-Soy estudiante de desarrollo de software, actualmente formándome en el **CPIFP Alan Turing** (PTA, Málaga).  
-Me apasiona entender cómo funcionan las cosas “por dentro”, aplicar buenas prácticas y crear proyectos que combinen lógica, diseño y funcionalidad.
+<div align="center">
 
-Uso este espacio para practicar, aprender y compartir parte de mi evolución como desarrollador. Cada proyecto que subo refleja un paso más en mi camino hacia el desarrollo profesional.
+Soy estudiante de desarrollo de software, actualmente formándome en el **CPIFP Alan Turing** 📌 (PTA, Málaga 🌴).
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+Me apasiona entender cómo funcionan las cosas **por dentro**, aplicar buenas prácticas y crear proyectos que combinen lógica, diseño y funcionalidad. ⚙️
+
+Uso este espacio para practicar, aprender y compartir parte de mi evolución como desarrollador. 👨🏻‍💻
+
+Cada proyecto que subo refleja un paso más en mi camino hacia el desarrollo profesional. 💫
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GITHUB STATS</h2>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+</div>
+
+<br>
+
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Ju4nmaFd3z&show_icons=true&theme=dark"/>
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Ju4nmaFd3z&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6FDA44&icon_color=6FDA44"/>
       </td>
       <td>
-        <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ju4nmaFd3z&theme=dark&hide_border=true&background=0d1117&ring=6FDA44&fire=6FDA44&currStreakLabel=6FDA44"/>
       </td>
     </tr>
   </table>
 </div>
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Tecnologías que utilizo</b>
 
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-        <br>Java
-      </td>
-      <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-        <br>CSS3
-      </td>
-      <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96" height="96">
-        <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-        <br>Linux
-      </td>
-      <td align="center" width="96" height="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="48" height="48" alt="Windows" />
-        <br>Windows
-      </td>
-      <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" alt="macOS" />
-        <br>macOS
-      </td>
-      <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
-        <br>AWS
-      </td>
-      <td align="center" width="96" height="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="48" height="48" alt="VirtualBox" />
-        <br>VirtualBox
-      </td>
-      <td align="center" width="96" height="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" width="48" height="48" alt="Cisco" />
-        <br>Cisco
-      </td>
-      <td align="center" width="96" height="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
-        <br>SQL
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> TECNOLOGÍAS QUE UTILIZO</h2>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
 </div>
 
 <br>
 
----
+<div align="center">
 
-## 🎯 OBJETIVOS ACTUALES
+**🖥️ Lenguajes & Marcado**
 
-### 🔧 Desarrollo Multiplataforma
-Consolidar mis habilidades en **aplicaciones multiplataforma** con arquitecturas escalables y patrones profesionales.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📚 Profundizar en Java
-Explorar frameworks avanzados y mejores prácticas en el ecosistema Java.
+**🗄️ Bases de Datos**
 
-### 🤝 Colaboración Open-Source
-Contribuir en **proyectos colaborativos** que generen impacto real y aprender de otros desarrolladores.
+![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🌐 Tecnologías Emergentes
-Expandir mi conocimiento en nuevas herramientas, metodologías e innovaciones del sector.
+**⚙️ DevOps & Cloud**
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
-## 💬 FILOSOFÍA DE DESARROLLO
+**🌐 Sistemas & Redes**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <h2>🎯 OBJETIVOS ACTUALES</h2>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+
+| | Objetivo | Descripción |
+|---|---|---|
+| 🔧 | **Desarrollo Multiplataforma** | Consolidar habilidades en arquitecturas escalables y patrones profesionales |
+| 📚 | **Profundizar en Java** | Explorar frameworks avanzados y mejores prácticas del ecosistema |
+| 🤝 | **Colaboración Open-Source** | Contribuir en proyectos colaborativos que generen impacto real |
+| 🌐 | **Tecnologías Emergentes** | Expandir conocimiento en nuevas herramientas e innovaciones del sector |
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <h2>💬 FILOSOFÍA DE DESARROLLO</h2>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
 
 ```
 ┌────────────────────────────────────────────────────────────┐
@@ -166,29 +165,34 @@ Expandir mi conocimiento en nuevas herramientas, metodologías e innovaciones de
 └────────────────────────────────────────────────────────────┘
 ```
 
----
+</div>
 
-## 📫 Conecta conmigo
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+  <h2>📫 CONECTA CONMIGO</h2>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+</div>
+
+<br>
 
 <div align="center">
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/juanma-fern%C3%A1ndez-rodr%C3%ADguez/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:juanmafr2007@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/juanma-fern%C3%A1ndez-rodr%C3%ADguez/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanmafr2007@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1f3a?style=for-the-badge&logo=react&logoColor=58a6ff)](https://juanma-dev-portfolio.vercel.app/)
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║  ✨ ¡Gracias por visitar mi perfil! Espero verte por aquí más veces ✨  ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
 **Hecho con 💻 y ☕ desde Málaga**
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 </div>
