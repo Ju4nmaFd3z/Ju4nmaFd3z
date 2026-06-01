@@ -1,5 +1,5 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    HEADER · BANNER ANIMADO                     ║ -->
+<!-- ║                    HEADER · BANNER ANIMADO                   ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -30,7 +30,7 @@
 </div>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         SOBRE MÍ                              ║ -->
+<!-- ║                         SOBRE MÍ                             ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ### <div align="center">🧠 Sobre mí</div>
@@ -50,17 +50,17 @@ Cada repositorio que subo es un paso más en mi camino hacia el desarrollo profe
 
 <br>
 
-> 🔭 Actualmente profundizando en **Java** y arquitecturas multiplataforma.  
-> 🌱 Aprendiendo cada día sobre **contenedores Docker**.  
+> 🔭 Actualmente profundizando en **Java** y su frameworks y arquitecturas multiplataforma.  
+> 🌱 Aprendiendo cada día sobre **nuevas tecnologías** y uso de contenedores como **Docker**.  
 > 🤝 Abierto a colaborar en proyectos **open-source**.  
-> ☕ Mejor versión de mí mismo con un buen café al lado del teclado.
+> ☕ Mi mejor versión es con un buen café al lado del teclado.
 
 </details>
 
 <br>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    PROYECTOS DESTACADOS                       ║ -->
+<!-- ║                    PROYECTOS DESTACADOS                      ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ### <div align="center">🚀 Proyectos destacados</div>
@@ -74,21 +74,21 @@ Cada repositorio que subo es un paso más en mi camino hacia el desarrollo profe
         <img src="https://img.shields.io/badge/PORTAFOLIO-1A3A6B?style=for-the-badge&logo=react&logoColor=2EC4A0" alt="Portfolio"/>
       </a>
       <br>
-      <sub><b>Mi carta de presentación como desarrollador.</b></sub>
+      <sub><b>Mi carta de presentación como desarrollador y persona.</b></sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://genetix-arena.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/GENETIX%20ARENA-1A3A6B?style=for-the-badge&logo=riotgames&logoColor=2EC4A0" alt="Genetix Arena"/>
       </a>
       <br>
-      <sub><b>Proyecto interactivo con dinámicas de arena.</b></sub>
+      <sub><b>Simulador de combate interactivo con dinámicas de colisión.</b></sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://genetix-xi.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/GENETIX-1A3A6B?style=for-the-badge&logo=graphql&logoColor=2EC4A0" alt="Genetix"/>
       </a>
       <br>
-      <sub><b>Experimentando con datos y lógica genética.</b></sub>
+      <sub><b>Simulador visual de algoritmos genéticos aplicando conceptos de evolución biológica.</b></sub>
     </td>
   </tr>
 </table>
@@ -223,7 +223,7 @@ Cada repositorio que subo es un paso más en mi camino hacia el desarrollo profe
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314a4iixothxrajjk73lfe6eejaa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="Spotify - Ahora escuchando"/>
 </a>
 <br>
-<sub>Lo que escucho mientras programo en tiempo real</sub>
+<sub>Lo que escucho mientras trabajo en tiempo real</sub>
 
 </div>
 
@@ -260,7 +260,7 @@ Cada repositorio que subo es un paso más en mi camino hacia el desarrollo profe
 
 <div align="center">
 
-> _"Cada error que cometemos nos acerca más a la meta."_
+> _"Cada error que cometemos nos acerca un poco más a la meta."_
 >
 > **La calidad supera a la cantidad. El aprendizaje no tiene final.**
 
