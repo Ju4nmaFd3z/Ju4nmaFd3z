@@ -16,7 +16,7 @@
 <!-- BADGES DE PRESENTACIÓN -->
 <div align="center">
   <img src="https://img.shields.io/badge/M%C3%A1laga-Espa%C3%B1a-2EC4A0?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1A3A6B" alt="Málaga"/>
-  <img src="https://img.shields.io/badge/CPIFP-Alan%20Turing-2EC4A0?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1A3A6B" alt="Alan Turing"/>
+  <img src="https://img.shields.io/badge/Formaci%C3%B3n-CPIFP%20Alan%20Turing-2EC4A0?style=flat-square&labelColor=1A3A6B" alt="CPIFP Alan Turing"/>
   <img src="https://komarev.com/ghpvc/?username=Ju4nmaFd3z&label=Visitas&color=2EC4A0&style=flat-square&labelColor=1A3A6B" alt="Visitas al perfil"/>
   <a href="https://github.com/Ju4nmaFd3z?tab=followers">
     <img src="https://img.shields.io/github/followers/Ju4nmaFd3z?style=flat-square&logo=github&logoColor=white&label=Seguidores&color=2EC4A0&labelColor=1A3A6B" alt="Seguidores"/>
@@ -46,12 +46,12 @@ Cada repositorio que subo es un paso más en mi camino hacia el desarrollo profe
 </div>
 
 <details align="center">
-<summary><b>✨ Un poco más sobre mí</b></summary>
+<summary><b>¿Quieres saber algo más?</b></summary>
 
 <br>
 
 > 🔭 Actualmente profundizando en **Java** y arquitecturas multiplataforma.  
-> 🌱 Aprendiendo cada día sobre **TypeScript, React y contenedores Docker**.  
+> 🌱 Aprendiendo cada día sobre **contenedores Docker**.  
 > 🤝 Abierto a colaborar en proyectos **open-source**.  
 > ☕ Mejor versión de mí mismo con un buen café al lado del teclado.
 
@@ -69,26 +69,26 @@ Cada repositorio que subo es un paso más en mi camino hacia el desarrollo profe
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <a href="https://juanma-dev-portfolio.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/PORTAFOLIO-1A3A6B?style=for-the-badge&logo=react&logoColor=2EC4A0" alt="Portfolio"/>
       </a>
-      <br><br>
-      <sub>Mi carta de presentación como desarrollador.</sub>
+      <br>
+      <sub><b>Mi carta de presentación como desarrollador.</b></sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <a href="https://genetix-arena.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/GENETIX%20ARENA-1A3A6B?style=for-the-badge&logo=riotgames&logoColor=2EC4A0" alt="Genetix Arena"/>
       </a>
-      <br><br>
-      <sub>Proyecto interactivo con dinámicas de arena.</sub>
+      <br>
+      <sub><b>Proyecto interactivo con dinámicas de arena.</b></sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <a href="https://genetix-xi.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/GENETIX-1A3A6B?style=for-the-badge&logo=graphql&logoColor=2EC4A0" alt="Genetix"/>
       </a>
-      <br><br>
-      <sub>Experimentando con datos y lógica genética.</sub>
+      <br>
+      <sub><b>Experimentando con datos y lógica genética.</b></sub>
     </td>
   </tr>
 </table>
@@ -108,9 +108,9 @@ Cada repositorio que subo es un paso más en mi camino hacia el desarrollo profe
 <b>Lenguajes &amp; Marcado</b><br>
 <picture>
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=light">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark" alt="Lenguajes"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,js,html,css&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,js,html,css&theme=light">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" alt="Lenguajes"/>
 </picture>
 
 <b>Bases de datos · DevOps &amp; Cloud</b><br>
@@ -211,20 +211,19 @@ Cada repositorio que subo es un paso más en mi camino hacia el desarrollo profe
 </div>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                      AHORA SONANDO                           ║ -->
+<!-- ║                     AHORA ESCUCHANDO                         ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-### <div align="center">🎧 Ahora sonando</div>
+### <div align="center">🎧 Ahora escuchando</div>
 
 <div align="center">
 
-<!-- Widget de Spotify (kittinan). Colores adaptados a tu marca; cámbialos si prefieres el oscuro nativo. -->
-<a href="https://open.spotify.com/user/314a4iixothxrajjk73lfe6eejaa" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314a4iixothxrajjk73lfe6eejaa&cover_image=true&theme=novatorem&show_offline=true&background_color=1A3A6B&bar_color=2EC4A0&bar_color_cover=true" alt="Spotify - Ahora sonando"/>
+<!-- Widget de Spotify (kittinan) — configuración elegida por el usuario (tema spotify-embed). -->
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=314a4iixothxrajjk73lfe6eejaa&redirect=true" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314a4iixothxrajjk73lfe6eejaa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="Spotify - Ahora escuchando"/>
 </a>
-
-<br><br>
-<sub>🎵 Lo que suena mientras programo (en tiempo real desde Spotify)</sub>
+<br>
+<sub>Lo que escucho mientras programo en tiempo real</sub>
 
 </div>
 
@@ -282,13 +281,22 @@ Cada repositorio que subo es un paso más en mi camino hacia el desarrollo profe
 <div align="center">
 
 <a href="https://www.linkedin.com/in/juanma-fern%C3%A1ndez-rodr%C3%ADguez/" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=2EC4A0&center=true&vCenter=true&width=560&height=42&lines=Abierto+a+nuevas+oportunidades+y+colaboraciones;Hablemos+por+el+canal+que+prefieras" alt="Hablemos"/>
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/juanma-fern%C3%A1ndez-rodr%C3%ADguez/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:juanmafr2007@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://juanma-dev-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-1A3A6B?style=for-the-badge&logo=react&logoColor=2EC4A0" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portafolio-1A3A6B?style=for-the-badge" alt="Portafolio"/>
+</a>
+<a href="https://github.com/Ju4nmaFd3z" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
