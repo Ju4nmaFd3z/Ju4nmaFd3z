@@ -50,7 +50,7 @@ Cada repositorio que subo es un paso más en mi camino hacia el desarrollo profe
 
 <br>
 
-> 🔭 Actualmente profundizando en **Java** y su frameworks y arquitecturas multiplataforma.  
+> 🔭 Actualmente profundizando en **Java**, sus frameworks y arquitecturas multiplataforma.  
 > 🌱 Aprendiendo cada día sobre **nuevas tecnologías** y uso de contenedores como **Docker**.  
 > 🤝 Abierto a colaborar en proyectos **open-source**.  
 > ☕ Mi mejor versión es con un buen café al lado del teclado.
