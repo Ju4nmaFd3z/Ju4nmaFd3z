@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184 56" width="184" height="56" fill="none" role="img" aria-labelledby="t d">
+<title id="t">Gmail</title>
+<desc id="d">Botón de contacto: Gmail.</desc>
+<style>.f1{fill:#FFFFFF}.f2{fill:#A3A3A3}.f3{fill:#737373}
+.s1{stroke:#FFFFFF;fill:none}.s2{stroke:#A3A3A3;fill:none}.s3{stroke:#737373;fill:none}
+.hl{stroke-opacity:.18;stroke-width:1;vector-effect:non-scaling-stroke;transform-box:fill-box;transform-origin:0 50%;animation:grow-x 1200ms cubic-bezier(.65,0,.35,1) both}
+.ol{stroke-width:1;vector-effect:non-scaling-stroke;fill:none}
+.fade{animation:fade 800ms cubic-bezier(.16,1,.3,1) both}
+.ast{animation:rot 12s linear infinite}
+.blink{animation:blink 1.6s steps(1,end) 1500ms infinite}
+@keyframes grow-x{from{transform:scaleX(0)}}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}}
+@keyframes rot{to{transform:rotate(360deg)}}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+@keyframes rise{from{transform:translateY(var(--rise,120px))}}
+.pill{stroke-opacity:.35;stroke-width:1;vector-effect:non-scaling-stroke;stroke-dasharray:1;animation:draw 1400ms cubic-bezier(.65,0,.35,1) 120ms both}
+@keyframes draw{from{stroke-dashoffset:1}}
+.nudge{animation:nudge 3.2s cubic-bezier(.65,0,.35,1) 2400ms infinite}
+@keyframes nudge{0%,70%,100%{transform:translate(0,0)}80%{transform:translate(3px,-3px)}90%{transform:translate(0,0)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect class="s1 pill" x=".5" y=".5" width="183" height="55" rx="27.5" pathLength="1"/>
+<g class="fade" style="animation-delay:420ms"><path class="f1" fill-rule="evenodd" transform="translate(22 18) scale(0.8333)" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/><path class="f1" d="M59.8 33.3L59.8 33.3Q58.2 33.3 57.1 32.5Q55.9 31.7 55.3 30.4Q54.7 29.1 54.7 27.3L54.7 27.3Q54.7 25.6 55.3 24.3Q56 22.9 57.1 22.2Q58.3 21.4 59.9 21.4L59.9 21.4Q61.3 21.4 62.3 21.9Q63.2 22.4 63.8 23.2Q64.4 24.1 64.6 25.2L64.6 25.2L62.8 25.3Q62.6 24.3 61.9 23.6Q61.2 23 59.9 23L59.9 23Q58.7 23 58 23.6Q57.2 24.2 56.9 25.1Q56.5 26.1 56.5 27.3L56.5 27.3Q56.5 28.6 56.9 29.6Q57.2 30.5 58 31.1Q58.7 31.7 59.9 31.7L59.9 31.7Q60.8 31.7 61.5 31.3Q62.2 30.9 62.6 30.2Q62.9 29.5 63 28.7L63 28.7L59.9 28.7L59.9 27.2L64.6 27.2L64.6 33L63.4 33L63.4 31.2Q62.9 32.1 62 32.7Q61 33.3 59.8 33.3M68.1 33L66.4 33L66.4 24.5L68 24.5L68 25.9Q68.4 25.2 69 24.7Q69.6 24.3 70.4 24.3L70.4 24.3Q71.3 24.3 72 24.8Q72.6 25.2 72.9 26.1L72.9 26.1Q73.2 25.2 73.8 24.8Q74.5 24.3 75.4 24.3L75.4 24.3Q76.7 24.3 77.5 25.1Q78.2 26 78.2 27.5L78.2 27.5L78.2 33L76.5 33L76.5 27.9Q76.5 25.7 74.9 25.7L74.9 25.7Q74.1 25.7 73.6 26.3Q73.1 26.9 73.1 28L73.1 28L73.1 33L71.5 33L71.5 28Q71.5 26.9 71.1 26.3Q70.8 25.7 69.9 25.7L69.9 25.7Q69.1 25.7 68.6 26.3Q68.1 26.9 68.1 28L68.1 28L68.1 33M82.7 33.2L82.7 33.2Q81.3 33.2 80.5 32.6Q79.7 32 79.7 30.9L79.7 30.9Q79.7 29.8 80.4 29.2Q81.1 28.5 82.5 28.3L82.5 28.3L85.4 27.7Q85.4 25.7 83.6 25.7L83.6 25.7Q82.7 25.7 82.3 26.1Q81.8 26.5 81.6 27.2L81.6 27.2L79.9 27Q80.1 25.8 81.1 25Q82 24.3 83.6 24.3L83.6 24.3Q85.3 24.3 86.2 25.2Q87.1 26.1 87.1 27.8L87.1 27.8L87.1 31.1Q87.1 31.4 87.2 31.5Q87.3 31.7 87.5 31.7L87.5 31.7L87.8 31.7L87.8 33Q87.6 33 87.2 33L87.2 33Q86.5 33 86.1 32.8Q85.6 32.5 85.5 31.7L85.5 31.7L85.5 31.7Q85.2 32.4 84.4 32.8Q83.6 33.2 82.7 33.2M82.9 31.8L82.9 31.8Q84.1 31.8 84.7 31.2Q85.4 30.5 85.4 29.5L85.4 29.5L85.4 29L82.9 29.5Q82.1 29.6 81.8 29.9Q81.5 30.2 81.5 30.7L81.5 30.7Q81.5 31.3 81.9 31.6Q82.3 31.8 82.9 31.8M90.7 33L89 33L89 24.5L90.7 24.5L90.7 33M90.8 23.3L89 23.3L89 21.6L90.8 21.6L90.8 23.3M95.8 33L94.7 33Q93.8 33 93.3 32.6Q92.8 32.1 92.8 31.2L92.8 31.2L92.8 21.6L94.5 21.6L94.5 31Q94.5 31.6 95.1 31.6L95.1 31.6L95.8 31.6L95.8 33"/></g>
+<g class="fade" style="animation-delay:620ms"><g class="nudge"><path class="f1" d="M152.2 31.5L151.4 30.6L157 25L152.1 25L153.2 23.9L158.9 23.9L158.9 29.6L157.8 30.8L157.8 25.8L152.2 31.5"/></g></g>
+</svg>

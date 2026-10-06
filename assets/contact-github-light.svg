@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184 56" width="184" height="56" fill="none" role="img" aria-labelledby="t d">
+<title id="t">GitHub</title>
+<desc id="d">Botón de contacto: GitHub.</desc>
+<style>.f1{fill:#0A0A0A}.f2{fill:#525252}.f3{fill:#8A8A8A}
+.s1{stroke:#0A0A0A;fill:none}.s2{stroke:#525252;fill:none}.s3{stroke:#8A8A8A;fill:none}
+.hl{stroke-opacity:.18;stroke-width:1;vector-effect:non-scaling-stroke;transform-box:fill-box;transform-origin:0 50%;animation:grow-x 1200ms cubic-bezier(.65,0,.35,1) both}
+.ol{stroke-width:1;vector-effect:non-scaling-stroke;fill:none}
+.fade{animation:fade 800ms cubic-bezier(.16,1,.3,1) both}
+.ast{animation:rot 12s linear infinite}
+.blink{animation:blink 1.6s steps(1,end) 1500ms infinite}
+@keyframes grow-x{from{transform:scaleX(0)}}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}}
+@keyframes rot{to{transform:rotate(360deg)}}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+@keyframes rise{from{transform:translateY(var(--rise,120px))}}
+.pill{stroke-opacity:.35;stroke-width:1;vector-effect:non-scaling-stroke;stroke-dasharray:1;animation:draw 1400ms cubic-bezier(.65,0,.35,1) 360ms both}
+@keyframes draw{from{stroke-dashoffset:1}}
+.nudge{animation:nudge 3.2s cubic-bezier(.65,0,.35,1) 3200ms infinite}
+@keyframes nudge{0%,70%,100%{transform:translate(0,0)}80%{transform:translate(3px,-3px)}90%{transform:translate(0,0)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect class="s1 pill" x=".5" y=".5" width="183" height="55" rx="27.5" pathLength="1"/>
+<g class="fade" style="animation-delay:660ms"><path class="f1" fill-rule="evenodd" transform="translate(22 18) scale(0.8333)" d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/><path class="f1" d="M59.8 33.3L59.8 33.3Q58.2 33.3 57.1 32.5Q55.9 31.7 55.3 30.4Q54.7 29.1 54.7 27.3L54.7 27.3Q54.7 25.6 55.3 24.3Q56 22.9 57.1 22.2Q58.3 21.4 59.9 21.4L59.9 21.4Q61.3 21.4 62.3 21.9Q63.2 22.4 63.8 23.2Q64.4 24.1 64.6 25.2L64.6 25.2L62.8 25.3Q62.6 24.3 61.9 23.6Q61.2 23 59.9 23L59.9 23Q58.7 23 58 23.6Q57.2 24.2 56.9 25.1Q56.5 26.1 56.5 27.3L56.5 27.3Q56.5 28.6 56.9 29.6Q57.2 30.5 58 31.1Q58.7 31.7 59.9 31.7L59.9 31.7Q60.8 31.7 61.5 31.3Q62.2 30.9 62.6 30.2Q62.9 29.5 63 28.7L63 28.7L59.9 28.7L59.9 27.2L64.6 27.2L64.6 33L63.4 33L63.4 31.2Q62.9 32.1 62 32.7Q61 33.3 59.8 33.3M68.1 33L66.4 33L66.4 24.5L68.1 24.5L68.1 33M68.2 23.3L66.4 23.3L66.4 21.6L68.2 21.6L68.2 23.3M74.7 33L73.1 33Q71.9 33 71.3 32.4Q70.7 31.9 70.7 30.7L70.7 30.7L70.7 25.9L69.4 25.9L69.4 24.5L70.7 24.5L70.7 22.5L72.4 22.5L72.4 24.5L74.7 24.5L74.7 25.9L72.4 25.9L72.4 30.6Q72.4 31.2 72.7 31.4Q72.9 31.6 73.4 31.6L73.4 31.6L74.7 31.6L74.7 33M77.9 33L76.2 33L76.2 21.6L77.9 21.6L77.9 26.5L83.1 26.5L83.1 21.6L84.9 21.6L84.9 33L83.1 33L83.1 28.1L77.9 28.1L77.9 33M89.8 33.2L89.8 33.2Q88.5 33.2 87.7 32.3Q87 31.5 87 30L87 30L87 24.5L88.7 24.5L88.7 29.5Q88.7 30.7 89.1 31.2Q89.5 31.8 90.3 31.8L90.3 31.8Q91.2 31.8 91.7 31.2Q92.3 30.6 92.3 29.5L92.3 29.5L92.3 24.5L94 24.5L94 33L92.4 33L92.4 31.6Q91.7 33.2 89.8 33.2M100.2 33.2L100.2 33.2Q99.3 33.2 98.6 32.8Q98 32.4 97.6 31.7L97.6 31.7L97.6 33L96 33L96 21.6L97.7 21.6L97.7 25.7Q98 25.1 98.7 24.7Q99.3 24.3 100.2 24.3L100.2 24.3Q101.3 24.3 102.1 24.8Q103 25.4 103.4 26.4Q103.8 27.4 103.8 28.7L103.8 28.7Q103.8 30.1 103.4 31.1Q103 32.1 102.1 32.6Q101.3 33.2 100.2 33.2M100 31.7L100 31.7Q100.9 31.7 101.5 30.9Q102.1 30.1 102.1 28.7L102.1 28.7Q102.1 27.3 101.5 26.6Q100.9 25.8 100 25.8L100 25.8Q98.9 25.8 98.3 26.6Q97.7 27.3 97.7 28.7L97.7 28.7Q97.7 30.1 98.3 30.9Q98.9 31.7 100 31.7"/></g>
+<g class="fade" style="animation-delay:860ms"><g class="nudge"><path class="f1" d="M152.2 31.5L151.4 30.6L157 25L152.1 25L153.2 23.9L158.9 23.9L158.9 29.6L157.8 30.8L157.8 25.8L152.2 31.5"/></g></g>
+</svg>
